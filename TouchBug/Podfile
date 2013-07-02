@@ -1,0 +1,3 @@
+platform :ios, '6.0'
+
+pod 'MTStackViewController', '1.0.2'
